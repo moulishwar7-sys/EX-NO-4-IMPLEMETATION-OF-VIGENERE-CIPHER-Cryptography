@@ -1,4 +1,6 @@
 # EX-NO-4-IMPLEMETATION-OF-VIGENERE-CIPHER
+## NAME : MOULISHWAR G
+## REGISTER NUMBER :2305001020
  
 
 ## AIM:
@@ -71,6 +73,9 @@ int main() {
 }
 ```
 ## OUTPUT
+
+<img width="557" height="310" alt="Screenshot 2026-06-09 190721" src="https://github.com/user-attachments/assets/812b32cd-c918-4064-9b1e-df506755cdd6" />
+
 
 ## RESULT
 
